@@ -1,0 +1,21 @@
+.content-criarUsuario{
+    margin-top: 2px;
+    width: 100%;
+    height: 100%;
+    align-items: center;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    position: absolute;
+}
+.content-criarUsuario_interno{
+    width: 800px;
+    padding: 30px;
+    box-shadow: 2px 4px 4px 2px rgba(126, 126, 126, 0.295);
+}
+.btn-criarUsuario_Button{
+    width: 100%;
+    border-radius: 30px;
+    height: 100%;
+}

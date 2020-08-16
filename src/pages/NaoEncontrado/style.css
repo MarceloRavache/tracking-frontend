@@ -1,0 +1,15 @@
+.content-NaoEncontrado{
+    align-items: center;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+.content-NaoEncontrado_interno{
+    margin-top: 200px;
+    width: 600px;
+    padding: 20px;
+    border-radius: 10px;
+    background-color: #637BFF;
+    color: white;
+}

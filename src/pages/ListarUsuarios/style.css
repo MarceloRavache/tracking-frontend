@@ -1,0 +1,24 @@
+.content-listarUsuario{
+    margin: 20px 0px;
+    width: 100%;
+    height: 100%;
+    align-items: center;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    position: absolute;
+}
+.content-listarUsuario_comp{
+    width: 800px;
+    height: 100%;
+    padding: 20px;
+    border-radius: 10px;
+    border-bottom: black;
+    box-shadow: 2px 4px 4px 4px rgba(126, 126, 126, 0.295);
+}
+.btn-listarUsuario_Button{
+    margin: 10px 260px;
+    border-radius: 20px;
+    width: 200px;
+}

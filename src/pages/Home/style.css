@@ -1,0 +1,38 @@
+.content{
+    align-items: center;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+.left-layout_img{
+    align-items: center;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    width: 30%;
+}
+.right-layout_Links{
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    justify-content: center;
+    width: 20%;
+    z-index: 1;
+}
+.left-layout_img img{
+    transform: scale(0.6);
+}
+.btn-home_Button{
+    margin: 10px 15px;
+    width: 300px;
+    height: 60px;
+    border-radius: 45px;
+    border-color: #3c58f7;
+}
+.h1-titulo{
+    color: #3c58f7;
+    width: 500px;
+}

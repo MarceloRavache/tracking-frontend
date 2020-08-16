@@ -1,0 +1,22 @@
+.content-listarAtividadePage{
+    margin-top: 5px;
+    padding: 10px;
+    width: 100%;
+    height: 100%;
+    align-items: center;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    position: absolute;
+}
+.content-listarAtividadePage_interno{
+    padding: 20px;
+    width: 800px;
+    box-shadow: 2px 4px 4px 4px rgba(126, 126, 126, 0.295);
+}
+.btn-pesquisar_Button{
+    border-radius: 20px;
+    margin: 10px 300px;
+    width: 200px;
+}
